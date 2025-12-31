@@ -1,3 +1,4 @@
+![ReportHub Cover](cover.png)
 # ReportHub – Analytics Dashboard
 
 A professional analytics dashboard web app built using Base44.
